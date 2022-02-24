@@ -9,6 +9,7 @@
     echo $i+$j;
     echo "<br/>";
     echo date("Y,m,d");
+    echo "<br/>";
     ?>
 </body>
 </html>
